@@ -5,7 +5,7 @@ const imprimirSoma = function (a, b) {
 
 imprimirSoma(2, 3)
 
-// Armazenando uma funcao em uma variavel
+// Armazenando uma funcao arrow em uma variavel
 const soma = (a, b) => {
     return a + b
 }
